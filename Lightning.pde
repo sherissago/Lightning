@@ -1,4 +1,4 @@
-//variables
+//x and y
 
 int startX = 0;
 int startY = 150;
